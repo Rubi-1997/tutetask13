@@ -3,11 +3,11 @@
 let number=16;
 
 if(number%2==0){
-    console.log("number is even")
+    console.log(`the number ${number} is even`)
 }
 
 else{
-    console.log("number is odd")
+    console.log(`the number ${number} is odd`)
 }
 
 
@@ -17,9 +17,9 @@ else{
 let number2=3
 
 if(number2%2==0){
-    console.log("number is even")
+    console.log(` the number ${number2} is even`)
 }
 
 else{
-    console.log("number is odd")
+    console.log(` the number ${number2} is odd`)
 }
